@@ -1,11 +1,3 @@
-# Project Proposal
-
-Write a proposal for a software product you would like to pursue for the majority of the semester. Make it obvious, interesting, and make the need for it sound convincing.
-
-## What to include
-
-Your proposal must focus on the product's value proposition, including answers to the questions below. Keep it thorough but concise. If you are not clear on whether your writing is any good, consult with a friend.
-
 ### Project title
 
 Bathroom's Near Me (and perhaps Indoor Seating)
